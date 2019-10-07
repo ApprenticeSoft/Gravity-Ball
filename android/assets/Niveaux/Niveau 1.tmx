@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="400" height="35" tilewidth="32" tileheight="32" nextobjectid="571">
+ <tileset firstgid="1" name="Test" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="144">
+  <image source="../DessinsPad.png" width="544" height="306"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="400" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1rCKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4A9rAAAE=
+  </data>
+ </layer>
+ <objectgroup name="Décor">
+  <object id="233" x="128" y="0" width="2354.33" height="32"/>
+  <object id="235" x="128" y="22" width="32" height="1034"/>
+  <object id="389" x="1184" y="992" width="96" height="64"/>
+  <object id="392" x="1440" y="864" width="128" height="192"/>
+  <object id="393" x="1728" y="672" width="160" height="384"/>
+  <object id="394" x="128" y="1056" width="2144" height="32"/>
+  <object id="395" x="4475.5" y="1056" width="1797.83" height="32"/>
+  <object id="400" x="2044" y="384" width="228" height="672"/>
+  <object id="401" x="6240" y="300" width="32" height="788"/>
+  <object id="407" x="5568" y="1024" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="408" x="5568" y="992" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="409" x="5568" y="960" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="410" x="5568" y="928" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="411" x="5568" y="896" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="412" x="5568" y="864" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="413" x="5568" y="832" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="414" x="5568" y="800" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="415" x="5568" y="768" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="416" x="5568" y="736" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="417" x="5568" y="704" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="418" x="5568" y="672" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="419" x="5568" y="640" width="32" height="32">
+   <properties>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="420" x="4928" y="0" width="32" height="640"/>
+  <object id="424" x="6048" y="896" width="192" height="160"/>
+  <object id="430" x="4960" y="0" width="1326.67" height="32"/>
+  <object id="432" x="4960" y="608" width="1056" height="32"/>
+  <object id="433" x="5248" y="288" width="1024" height="32"/>
+  <object id="437" x="6272" y="512" width="1440" height="320">
+   <properties>
+    <property name="Type" value="Eau"/>
+   </properties>
+  </object>
+  <object id="438" x="6272" y="832" width="1440" height="256"/>
+  <object id="439" x="7712" y="170.667" width="128" height="917.333"/>
+  <object id="440" x="6272" y="0" width="2532" height="32"/>
+  <object id="441" x="6234.67" y="40" width="37.3333" height="245">
+   <properties>
+    <property name="Masse" value="10"/>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="442" x="6944" y="448" width="170" height="178">
+   <properties>
+    <property name="Masse" value="50"/>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="443" x="7328" y="448" width="192" height="96">
+   <properties>
+    <property name="Masse" value="25"/>
+    <property name="Type" value="Léger"/>
+   </properties>
+  </object>
+  <object id="447" x="7840" y="1056" width="3852" height="32"/>
+  <object id="449" x="7968" y="928" width="96" height="128">
+   <properties>
+    <property name="Groupe" value="1"/>
+    <property name="Masse" value="100"/>
+    <property name="Type" value="Poulie"/>
+    <property name="longueur" value="29"/>
+   </properties>
+  </object>
+  <object id="454" x="8800" y="0" width="32" height="768"/>
+  <object id="455" x="8704" y="512" width="96" height="128">
+   <properties>
+    <property name="Groupe" value="1"/>
+    <property name="Masse" value="100"/>
+    <property name="Type" value="Poulie"/>
+    <property name="longueur" value="16"/>
+   </properties>
+  </object>
+  <object id="456" x="8068" y="768" width="764.25" height="32"/>
+  <object id="458" x="8068" y="32" width="32" height="544"/>
+  <object id="459" x="8068" y="800" width="32" height="160"/>
+  <object id="463" x="8317" y="629.333" width="384" height="138.667"/>
+  <object id="466" x="8605" y="192" width="96" height="336"/>
+  <object id="467" x="8212" y="352" width="192" height="32">
+   <properties>
+    <property name="Masse" value="2"/>
+    <property name="Type" value="Balançoire"/>
+    <property name="attacheY" value="11"/>
+   </properties>
+  </object>
+  <object id="468" x="1442" y="192" width="552" height="32">
+   <properties>
+    <property name="Contact" value="oui"/>
+    <property name="Masse" value="120"/>
+    <property name="Type" value="Balance"/>
+    <property name="angleMax" value="45"/>
+    <property name="angleMin" value="-45"/>
+    <property name="speed" value="0"/>
+    <property name="torque" value="0"/>
+   </properties>
+  </object>
+  <object id="469" x="758" y="384" width="394" height="32">
+   <properties>
+    <property name="Contact" value="oui"/>
+    <property name="Masse" value="35"/>
+    <property name="Type" value="Balance"/>
+    <property name="angleMax" value="30"/>
+    <property name="angleMin" value="-30"/>
+    <property name="speed" value="0"/>
+    <property name="torque" value="0"/>
+   </properties>
+  </object>
+  <object id="470" x="224" y="288" width="224" height="32">
+   <properties>
+    <property name="Contact" value="oui"/>
+    <property name="Masse" value="40"/>
+    <property name="Type" value="Balance"/>
+    <property name="angleMax" value="30"/>
+    <property name="angleMin" value="-30"/>
+    <property name="speed" value="0"/>
+    <property name="torque" value="0"/>
+   </properties>
+  </object>
+  <object id="472" x="320" y="96" width="2112" height="32"/>
+  <object id="476" x="2431.94" y="96" width="64" height="32" rotation="5"/>
+  <object id="477" x="2495.7" y="101.6" width="64" height="32" rotation="10"/>
+  <object id="478" x="2558.8" y="112.7" width="64" height="32" rotation="15"/>
+  <object id="479" x="2620.61" y="129.25" width="64" height="32" rotation="20"/>
+  <object id="480" x="2738.85" y="178.25" width="1605.19" height="32" rotation="30"/>
+  <object id="481" x="2680.8" y="151.2" width="64" height="32" rotation="25"/>
+  <object id="488" x="2482" y="0" width="64" height="32" rotation="5"/>
+  <object id="489" x="2670.67" y="33.25" width="64" height="32" rotation="20"/>
+  <object id="490" x="2545.76" y="5.6" width="64" height="32" rotation="10"/>
+  <object id="491" x="2730.86" y="55.2" width="64" height="32" rotation="25"/>
+  <object id="492" x="2608.86" y="16.7" width="64" height="32" rotation="15"/>
+  <object id="493" x="2788.91" y="82.25" width="1617.56" height="32" rotation="30"/>
+  <object id="500" x="4483.3" y="1088.5" width="64" height="32" rotation="-180.379"/>
+  <object id="501" x="4292.34" y="1073.08" width="64" height="32" rotation="-165.379"/>
+  <object id="502" x="4419.3" y="1088.9" width="64" height="32" rotation="-175.379"/>
+  <object id="503" x="4230.36" y="1056.87" width="64" height="32" rotation="-160.379"/>
+  <object id="504" x="4355.43" y="1083.77" width="64" height="32" rotation="-170.379"/>
+  <object id="505" x="4170.03" y="1035.38" width="64" height="32" rotation="-155.379"/>
+  <object id="506" x="4292.36" y="967.397" width="64" height="32" rotation="-160.379"/>
+  <object id="507" x="4417.43" y="994.297" width="64" height="32" rotation="-170.379"/>
+  <object id="508" x="4354.34" y="983.607" width="64" height="32" rotation="-165.379"/>
+  <object id="509" x="4545.3" y="999.027" width="64" height="32" rotation="-180.379"/>
+  <object id="510" x="4481.3" y="999.427" width="64" height="32" rotation="-175.379"/>
+  <object id="511" x="4232.03" y="945.907" width="64" height="32" rotation="-155.379"/>
+  <object id="514" x="9152" y="480" width="32" height="245.333">
+   <properties>
+    <property name="Type" value="Rotatif"/>
+    <property name="Vitesse" value="-120"/>
+   </properties>
+  </object>
+  <object id="519" x="8288" y="896" width="32" height="160"/>
+  <object id="522" x="8448" y="800" width="32" height="160"/>
+  <object id="523" x="8608" y="896" width="32" height="160"/>
+  <object id="525" x="8832" y="0" width="2854.67" height="32"/>
+  <object id="526" x="9312" y="160" width="352" height="896"/>
+  <object id="527" x="8832" y="366" width="160" height="32"/>
+  <object id="528" x="8832" y="384" width="128" height="416"/>
+  <object id="529" x="9856" y="416" width="354.667" height="32">
+   <properties>
+    <property name="Masse" value="3"/>
+    <property name="Type" value="Balançoire"/>
+    <property name="attacheY" value="13"/>
+   </properties>
+  </object>
+  <object id="532" x="9664" y="704" width="1861.33" height="352">
+   <properties>
+    <property name="Type" value="Eau"/>
+   </properties>
+  </object>
+  <object id="550" x="11456" y="640" width="229.333" height="448"/>
+  <object id="553" x="11680" y="0" width="32" height="1088"/>
+  <object id="559" x="10656" y="288" width="224" height="32">
+   <properties>
+    <property name="Type" value="Balançoire"/>
+    <property name="attacheY" value="9"/>
+   </properties>
+  </object>
+  <object id="567" x="9856" y="864" width="64" height="64">
+   <properties>
+    <property name="Masse" value="8"/>
+    <property name="Position" value="-1"/>
+    <property name="Type" value="Suspendu"/>
+    <property name="longueur" value="-5"/>
+   </properties>
+  </object>
+  <object id="568" x="10104" y="912" width="113.333" height="64">
+   <properties>
+    <property name="Masse" value="12"/>
+    <property name="Position" value="-1"/>
+    <property name="Type" value="Suspendu"/>
+    <property name="longueur" value="-3.5"/>
+   </properties>
+  </object>
+  <object id="569" x="10412" y="778.667" width="126.667" height="116">
+   <properties>
+    <property name="Masse" value="16"/>
+    <property name="Position" value="-1"/>
+    <property name="Type" value="Suspendu"/>
+    <property name="longueur" value="-7"/>
+   </properties>
+  </object>
+  <object id="570" x="10688" y="736" width="126.667" height="116">
+   <properties>
+    <property name="Masse" value="13"/>
+    <property name="Position" value="-1"/>
+    <property name="Type" value="Suspendu"/>
+    <property name="longueur" value="-8.5"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Spawn">
+  <object id="16" name="Balle" gid="128" x="352" y="832" width="32" height="32"/>
+ </objectgroup>
+</map>
